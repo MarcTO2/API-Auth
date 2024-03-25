@@ -1,4 +1,4 @@
-from django.utls import path
+from django.urls import path
 from .views import RegisterView
 
 urlpatterns = [
